@@ -1,0 +1,13 @@
+.metadata/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build folders
+target/
+build/
+
+# Logs
+*.log
